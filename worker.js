@@ -1,0 +1,4 @@
+/**
+ * LaFouine — Cloudflare Worker
+ */
+ 

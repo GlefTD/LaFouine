@@ -19,3 +19,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+The Software is the original code of the LaFouine 0.2.2 distribution. The
+compiled corpus shipped beside it as dataset/lafouine_dataset.js is not part
+of the Software. Government documents, National Assembly reports, Vérificateur
+général reports, Données Québec datasets, trademarks, and the IBM Plex font
+remain under the terms stated in NOTICE.md.

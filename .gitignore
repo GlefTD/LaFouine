@@ -1,0 +1,19 @@
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+.dev.vars
+.wrangler/
+node_modules/
+dist/
+
+# Local captures of the official dataset (~2 GiB). Never commit.
+*.csv
+*.tsv
+*.pdf
+*.xml
+
+.idea/
+.vscode/
+*.swp
