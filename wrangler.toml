@@ -1,7 +1,6 @@
 name = "lafouine"
-main = "worker.js"
 compatibility_date = "2026-10-07"
 
 [assets]
-directory = "."
-binding = "ASSETS"
+directory = "./public"
+not_found_handling = "single-page-application"
